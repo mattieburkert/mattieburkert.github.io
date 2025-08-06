@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "'Virtue is as much debased as our Money:' Generic and Economic Instability in <i>Love’s Last Shift</i>"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
