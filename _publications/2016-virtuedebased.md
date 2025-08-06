@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2016-virtuedebased
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2016
+date: 2016-08-01
 venue: 'Modern Philology'
 slidesurl: ''
 paperurl: 'http://mattieburkert.github.io/files/Burkert_ModPhil_offprint.pdf'
