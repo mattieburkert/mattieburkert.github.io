@@ -1,5 +1,5 @@
 ---
-title: &quot;'Virtue is as much debased as our Money:' Generic and Economic Instability in <i>Love’s Last Shift</i>.&quot;
+title: 'Virtue is as much debased as our Money:' Generic and Economic Instability in <i>Love’s Last Shift</i>'
 collection: publications
 category: articles
 permalink: /publications/virtuedebased.md
