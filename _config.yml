@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Mattie Burkert"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mattie Burkert"
+description              : &description "Professional academic homepage"
 url                      : https://mattieburkert.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mattieburkert/mattieburkert.github.io"
@@ -22,14 +22,14 @@ repository               : "mattieburkert/mattieburkert.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bio-photo.jpg"
+  name             : "Contact Me"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Associate Professor of English and Digital Humanities"
+  location         : "Eugene, OR, USA"
+  employer         : "University of Oregon"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mburkert@uoregon.edu" 
 
   # Academic websites
   academia         : # URL
