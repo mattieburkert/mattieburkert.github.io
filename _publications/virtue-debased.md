@@ -2,7 +2,7 @@
 title: &quot;'Virtue is as much debased as our Money:' Generic and Economic Instability in <i>Love’s Last Shift</i>.&quot;
 collection: publications
 category: articles
-permalink: /publications/virtue-debased.md
+permalink: /publications/virtuedebased.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016
 venue: 'Modern Philology'
