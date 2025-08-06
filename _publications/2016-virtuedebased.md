@@ -9,7 +9,7 @@ venue: 'Modern Philology'
 slidesurl: ''
 paperurl: 'http://mattieburkert.github.io/files/Burkert_ModPhil_offprint.pdf'
 bibtexurl: ''
-citation: 'Burkert, Mattie. (2016). "'Virtue is as much debased as our Money:' Generic and Economic Instability in <i>Love’s Last Shift</i>.&quot; <i>Modern Philology</i>. Vol. 114, No. 1, Pp. 59-81. https://doi.org/10.1086/686632."
+citation: 'Burkert, Mattie. (2016). &quot;'Virtue is as much debased as our Money:' Generic and Economic Instability in <i>Love’s Last Shift</i>.&quot; Modern Philology. Vol. 114, No. 1, Pp. 59-81. https://doi.org/10.1086/686632.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
